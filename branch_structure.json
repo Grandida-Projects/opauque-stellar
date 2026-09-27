@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/wire-history-reconciliation-pending-tx",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/wire-history-reconciliation-pending-tx": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/wire-history-reconciliation-pending-tx",
+    "origin"
+  ]
+}
